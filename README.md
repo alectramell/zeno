@@ -1,13 +1,13 @@
 # zeno #
 
-## Word Encryption Tool ##
+### Word Encryption Tool for Linux ###
 
-### USAGE: ###
+## USAGE: ##
 
-<b>ENCRYPT..</b>
+ENCRYPTION..
 
 	$ bash encrypt.sh "<WORD>"
 
-<b>DECRYPT..</b>
+DECRYPTION..
 
 	$ bash decrypt.sh <FILE>
